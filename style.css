@@ -19,8 +19,8 @@ li a.menu {
   border-left: 2px solid #0E1C36;
 }
 .activemenu {
-  background-color: red;
+  background-color: #EB2C1F;
 }
 li a.menu:hover {
-  background-color: #AFCBFF;
+  background-color: #32C8FF;
 }
