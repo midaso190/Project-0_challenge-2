@@ -17,8 +17,8 @@ li a.menu {
   text-decoration: none;
 }
 .activemenu {
-  background-color: #EB2C1F;
+  background-color: red;
 }
 li a.menu:hover {
-  background-color: #32C8FF;
+  background-color: aqua;
 }
