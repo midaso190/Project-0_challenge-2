@@ -1,24 +1,26 @@
 ul.menu {
-  list-style-type: none;
+  width: 90%;
+  margin-left: 85px;
   padding: 0;
-  overflow: hidden;
-  background-color: blue;
   margin-top: 30px;
+  overflow: hidden;
   position: fixed;
-  width: 97.31%;
-  border: gray solid 2px;
+  border: #0E1C36 solid 2px;
   border-radius: 5px;
+  list-style-type: none;
+  background-color: #006FAF;
 }
 li a.menu {
-  color: white;
-  padding: 15px 160px;
+  color: #FFEDE1;
+  padding: 15px 201.13px;
   float: left;
   display: block;
   text-decoration: none;
+  border-left: 2px solid #0E1C36;
 }
 .activemenu {
   background-color: red;
 }
 li a.menu:hover {
-  background-color: aqua;
+  background-color: #AFCBFF;
 }
