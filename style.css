@@ -23,4 +23,5 @@ li a.menu {
 }
 li a.menu:hover {
   background-color: #32C8FF;
+  color: black;
 }
