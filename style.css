@@ -4,7 +4,7 @@ body {
 
 
 ul.menu {
-  width: 1400px;
+  width: 90%;
   margin-left: 85px;
   padding: 0;
   margin-top: 30px;
@@ -17,7 +17,7 @@ ul.menu {
 }
 li a.menu {
   color: #FFEDE1;
-  padding: 15px 204px;
+  padding: 15px 14.54%;
   float: left;
   display: block;
   text-decoration: none;
