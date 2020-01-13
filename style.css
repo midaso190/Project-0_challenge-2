@@ -13,7 +13,7 @@ ul.menu {
   position: absolute;
   border-radius: 5px;
   border: white solid 2px;
-  background-color: #131461;
+  background-color: #00ff66;
 }
 li a.menu {
   color: #FFEDE1;
@@ -24,7 +24,7 @@ li a.menu {
   border-left: 2px solid white;
 }
 .activemenu {
-  background-color: #55ff66;
+  background-color: #00ffd9;
 }
 li a.menu:hover {
   background-color: #11ff77;
