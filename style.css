@@ -1,5 +1,5 @@
 body {
-  background-color: #005708;
+  background-color: #08ddff;
 }
 
 
@@ -12,7 +12,7 @@ ul.menu {
   list-style-type: none;
   position: absolute;
   border-radius: 5px;
-  border: black solid 2px;
+  border: white solid 2px;
   background-color: #131461;
 }
 li a.menu {
@@ -21,14 +21,14 @@ li a.menu {
   float: left;
   display: block;
   text-decoration: none;
-  border-left: 2px solid black;
+  border-left: 2px solid white;
 }
 .activemenu {
-  background-color: #EC2C1F;
+  background-color: #55ff66;
 }
 li a.menu:hover {
-  background-color: #1587A2;
-  color: black;
+  background-color: #11ff77;
+  color: white;
 }
 .logo {
   width: 75px;
