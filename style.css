@@ -18,7 +18,7 @@ p {
   border: black solid 2px;
   overflow: hidden;
   padding: 0px;
-  background-color: #131461;
+  background-color: #DA6D88;
 }
 #menu a {
   color: #FFEDE1;
@@ -28,10 +28,10 @@ p {
   padding: 15px 180px;
 }
 #activemenu {
-  background-color: #EC2C1F;
+  background-color: #7BC7C3;
 }
 #menu li a:hover {
-  background-color: #1587A2;
+  background-color: #DDA1A9;
   color: black;
 }
 #activemenu {
