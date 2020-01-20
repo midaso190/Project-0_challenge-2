@@ -1,5 +1,10 @@
 body {
-  background-color: #005708;
+  background-color: #888888;
+}
+p {
+  border-radius: 5px;
+  border: #AAAAAA solid 2px;
+  background-color: #AAAAAA;
 }
 #menu li {
   display: inline;
@@ -28,6 +33,9 @@ body {
 #menu li a:hover {
   background-color: #1587A2;
   color: black;
+}
+#activemenu {
+  background-color: #7BC7C3;
 }
 .logo {
   width: 75px;
