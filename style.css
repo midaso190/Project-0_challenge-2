@@ -1,7 +1,11 @@
 body {
   background-color: #888888;
 }
-
+p{
+  border-radius: 5px;
+  border: #AAAAAA solid 2px;
+  background-color: #AAAAAA;
+}
 
 ul.menu {
   width: 90%;
