@@ -1,5 +1,5 @@
 body {
-  background-color: #08ddff;
+  background-color: #888888;
 }
 
 
@@ -13,7 +13,7 @@ ul.menu {
   position: absolute;
   border-radius: 5px;
   border: white solid 2px;
-  background-color: #00ff66;
+  background-color: #DA6D88;
 }
 li a.menu {
   color: #FFEDE1;
@@ -24,10 +24,10 @@ li a.menu {
   border-left: 2px solid white;
 }
 .activemenu {
-  background-color: #00ffd9;
+  background-color: #7BC7C3;
 }
 li a.menu:hover {
-  background-color: #11ff77;
+  background-color: #DDA1A9;
   color: white;
 }
 .logo {
