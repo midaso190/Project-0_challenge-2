@@ -1,32 +1,31 @@
 body {
   background-color: #005708;
 }
-
-
-ul.menu {
-  width: 90%;
-  margin-left: 85px;
-  padding: 0;
-  margin-top: 30px;
-  overflow: hidden;
-  list-style-type: none;
-  position: absolute;
+#menu li {
+  display: inline;
+  float: left;
+}
+#menu {
+  margin-left: 7.5%;
+  margin-top: 25px;
+  width: max-content;
   border-radius: 5px;
   border: black solid 2px;
+  overflow: hidden;
+  padding: 0px;
   background-color: #131461;
 }
-li a.menu {
+#menu a {
   color: #FFEDE1;
-  padding: 15px 14.54%;
-  float: left;
-  display: block;
   text-decoration: none;
   border-left: 2px solid black;
+  display: block;
+  padding: 15px 180px;
 }
-.activemenu {
+#activemenu {
   background-color: #EC2C1F;
 }
-li a.menu:hover {
+#menu li a:hover {
   background-color: #1587A2;
   color: black;
 }
@@ -34,6 +33,5 @@ li a.menu:hover {
   width: 75px;
   height: 75px;
   float: left;
-  margin-top: 20px;
-  margin-left: 5px;
+  margin-left: 10px;
 }
