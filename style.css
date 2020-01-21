@@ -54,9 +54,9 @@ div.contact {
   background-color: #AAAAAA;
   height: 100%;
 }
-h2.contact {
+.contact h2 {
  margin-left: 5%;
 }
-p.contact {
+.contact p {
   padding: 5px 10px;
 }
