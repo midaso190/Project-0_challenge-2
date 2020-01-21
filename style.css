@@ -20,6 +20,10 @@ p {
   padding: 0px;
   background-color: #DA6D88;
 }
+iframe{
+  border-radius: 5px;
+  border: #AAAAAA solid 2px;
+}
 #menu a {
   color: #FFEDE1;
   text-decoration: none;
@@ -36,6 +40,7 @@ p {
 }
 #activemenu {
   background-color: #7BC7C3;
+  color: black;
 }
 .logo {
   width: 75px;
