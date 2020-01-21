@@ -25,23 +25,24 @@ iframe{
   border: #AAAAAA solid 2px;
 }
 #menu a {
-  color: #FFEDE1;
+  color: #232323;
   text-decoration: none;
   border-left: 2px solid black;
   display: block;
   padding: 15px 180px;
 }
+
+
 #activemenu {
   background-color: #7BC7C3;
 }
+
+
 #menu li a:hover {
   background-color: #DDA1A9;
   color: black;
 }
-#activemenu {
-  background-color: #7BC7C3;
-  color: black;
-}
+
 .logo {
   width: 75px;
   height: 75px;
