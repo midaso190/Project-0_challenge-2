@@ -1,11 +1,6 @@
 body {
   background-color: #888888;
 }
-p {
-  border-radius: 5px;
-  border: #AAAAAA solid 2px;
-  background-color: #AAAAAA;
-}
 #menu li {
   display: inline;
   float: left;
@@ -21,14 +16,12 @@ p {
   background-color: #DA6D88;
 }
 #menu a {
+  font-size: 20px;
   color: #FFEDE1;
   text-decoration: none;
   border-left: 2px solid black;
   display: block;
-  padding: 15px 180px;
-}
-#activemenu {
-  background-color: #7BC7C3;
+  padding: 15px 165px;
 }
 #menu li a:hover {
   background-color: #DDA1A9;
@@ -42,4 +35,25 @@ p {
   height: 75px;
   float: left;
   margin-left: 10px;
+}
+.amsterdamflag {
+  position: absolute;
+  margin-left: 85%;
+  width: 120px;
+  height: 80px;
+}
+div.contact {
+  margin-right: 50%;
+  margin-left: 7.5%;
+  margin-top: 2.5%;
+  border-radius: 5px;
+  border: #AAAAAA solid 2px;
+  background-color: #AAAAAA;
+  height: 100%;
+}
+h2.contact {
+ margin-left: 5%;
+}
+p.contact {
+  padding: 5px 10px;
 }
