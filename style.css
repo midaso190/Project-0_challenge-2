@@ -21,7 +21,7 @@ iframe{
 }
 #menu a {
   font-size: 20px;
-  color: #FFEDE1;
+  color: black;
   text-decoration: none;
   border-left: 2px solid black;
   display: block;
@@ -29,11 +29,9 @@ iframe{
 }
 #menu li a:hover {
   background-color: #DDA1A9;
-  color: black;
 }
 #activemenu {
   background-color: #7BC7C3;
-  color: black;
 }
 .logo {
   width: 75px;
