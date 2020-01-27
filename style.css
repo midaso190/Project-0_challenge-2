@@ -52,11 +52,19 @@ div.contact {
   border-radius: 5px;
   border: #AAAAAA solid 2px;
   background-color: #AAAAAA;
-  height: 100%;
+  position: absolute;
 }
 .contact h2 {
  margin-left: 5%;
 }
 .contact p {
   padding: 5px 10px;
+}
+div.socialmedia {
+  margin-left: 55%;
+  margin-top: 2.5%;
+  position: absolute;
+}
+.socialmedia a {
+  padding-right: 60px;
 }
