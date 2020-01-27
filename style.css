@@ -45,6 +45,13 @@ iframe{
   width: 120px;
   height: 80px;
 }
+
+.mapimage {
+  position: absolute;
+  margin-left: 50%;
+  width: 600px;
+}
+
 div.contact {
   margin-right: 50%;
   margin-left: 7.5%;
