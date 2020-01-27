@@ -5,6 +5,13 @@ body {
   display: inline;
   float: left;
 }
+div.antwoord {
+  color: #888888;
+  background-color: #888888;
+}
+.antwoord:hover {
+  color: white;
+}
 #menu {
   margin-left: 7.5%;
   margin-top: 25px;
