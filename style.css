@@ -26,6 +26,11 @@ iframe{
   border-radius: 5px;
   border: #a3a3a3 solid 2px;
 }
+.right {
+  width: 45%;
+  float: right;
+  border-radius: 15px;
+}
 #menu a {
   font-size: 20px;
   color: black;
