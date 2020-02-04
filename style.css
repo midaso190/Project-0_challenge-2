@@ -27,9 +27,9 @@ iframe{
   border: #a3a3a3 solid 2px;
 }
 
-img{
+.plaatje {
   border-radius: 5px;
-  border: #a3a3a3 solid 2px;
+  border: #a3a3a3 solid 1px;
 }
 
 .right {
@@ -68,6 +68,8 @@ img{
   position: absolute;
   margin-left: 50%;
   width: 600px;
+  border-radius: 5px;
+  border: #a3a3a3 solid 2px;
 }
 
 div.contact {
@@ -119,4 +121,6 @@ div.index {
 }
 .nieuwsartikellen img {
   height: 200px;
+  border-radius: 5px;
+  border: #a3a3a3 solid 2px;
 }
