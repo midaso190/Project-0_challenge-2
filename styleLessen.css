@@ -5,7 +5,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #999;
   overflow-x: hidden;
   padding-top: 60px;
   transition: 0.5s;
@@ -14,7 +14,7 @@
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #181818;
   display: block;
   transition: 0.3s;
 }
@@ -34,4 +34,8 @@
 }
 span {
   text-decoration: underline;
+}
+.sidenav h2 {
+  color: #111;
+  padding: 8px 8px 8px 32px;
 }
