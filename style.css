@@ -26,10 +26,12 @@ iframe{
   border-radius: 5px;
   border: #a3a3a3 solid 2px;
 }
+
 .plaatje {
   border-radius: 5px;
   border: #a3a3a3 solid 1px;
 }
+
 .right {
   width: 45%;
   float: right;
@@ -61,13 +63,13 @@ iframe{
   width: 120px;
   height: 80px;
 }
+
 .mapimage {
-  position: absolute;
-  margin-left: 50%;
   width: 600px;
   border-radius: 5px;
   border: #a3a3a3 solid 2px;
 }
+
 div.contact {
   margin-right: 50%;
   margin-left: 7.5%;
@@ -83,6 +85,7 @@ div.contact {
 .contact p {
   padding: 5px 10px;
 }
+
 div.socialmedia {
   margin-left: 55%;
   margin-top: 2.5%;
@@ -91,6 +94,7 @@ div.socialmedia {
 .socialmedia a {
   padding-right: 60px;
 }
+
 div.index {
   margin-right: 50%;
   margin-left: 7.5%;
@@ -100,6 +104,7 @@ div.index {
   background-color: #AAAAAA;
   height: 100%;
 }
+
 .index h2 {
  margin-left: 5%;
 }
@@ -107,7 +112,7 @@ div.index {
   padding: 5px 10px;
 }
 .nieuwsartikellen {
-  margin-top: 3%;
+  margin-top: 1%;
   display: flex;
   justify-content: space-around;
   flex-flow: row wrap;
@@ -116,4 +121,24 @@ div.index {
   height: 200px;
   border-radius: 5px;
   border: #a3a3a3 solid 1px;
+}
+.index2 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  margin-top: 2.5%;
+}
+div.index1 {
+  border-radius: 5px;
+  border: #a3a3a3 solid 2px;
+  background-color: #AAAAAA;
+  height: 100%;
+  width: 40%;
+}
+
+.index1 h2 {
+ margin-left: 5%;
+}
+.index1 p {
+  padding: 5px 10px;
 }
